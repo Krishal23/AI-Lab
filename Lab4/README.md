@@ -1,16 +1,5 @@
-=============================================================================
-MA3206: Artificial Intelligence - Assignment 4
-Constraint-Based Assignment Scheduling & Optimization
-Group N Members:
-● Aryan Vats (2301MC52)
-● Kushal Kesharwani (2301MC57)
-● Aditya Aryan (2301MC58)
-● Pranshu Deep (2301MC59)
-=============================================================================
-
------------------------------------------------------------------------------
 1. PROJECT OVERVIEW
------------------------------------------------------------------------------
+
 This project solves a complex scheduling and optimization problem. Given a set 
 of course assignments with specific prerequisites, a maximum student group size, 
 and varying daily food costs associated with each task, the goal is to schedule 
